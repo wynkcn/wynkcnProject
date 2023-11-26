@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(29, 135, 100);
+}
+.head-block{
+
+height: 550px;
+width: 1200px;
+display: flex;
+align-items: center ;
+justify-content: center;
+gap: 20px;
+
+}
+.one-block{
+    height: 200px;
+    width: 200px;
+    background-color: black;
+    
+    
+}
+
+.two-block{
+
+    height: 200px;
+    width: 200px;
+    background-color: black;
+    
+    
+}
+
+.three-block{
+    height: 200px;
+    width: 200px;
+    background-color: black;
+    
+    
+}
